@@ -1,0 +1,39 @@
+Corn, sweet
+Sorghum = Sorghum
+Barley = Barley
+Teff
+Wheat, bread
+Wheat, durum
+Rice
+Wheat, Emmer
+Bean
+Potato
+Sweet potato
+Taro
+Bean, broad green
+Bean, broad
+Chick-pea
+Lentil
+Pea, dry
+Grass pea
+Peanut
+Mustard, Ethiopian
+Safflower
+Sesame
+Soybean
+Sunflower
+Oil flax
+Niger seed
+Sugarcane
+Carrot
+Garlic
+Onion
+Chilli, dry
+Tomato
+Upland cotton
+Mandarin
+Mango
+Coffee
+Avocado
+Banana
+Enset

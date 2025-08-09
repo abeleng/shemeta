@@ -1,0 +1,30 @@
+[
+  {
+    "AEZ_name": "Arid agro-ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+    "regions": ["Afar", "Oromia", "Somali", "Dire Dawa"]
+  },
+  {
+    "AEZ_name": "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+    "regions": ["Tigray", "Oromia", "Amhara", "SNNP"]
+  },
+  {
+    "AEZ_name": "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+    "regions": ["Amhara", "Tigray", "Afar", "Oromia"]
+  },
+  {
+    "AEZ_name": "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+    "regions": ["Benishangul-Gumuz", "Afar", "SNNP", "Oromia", "Amhara"]
+  },
+  {
+    "AEZ_name": "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+    "regions": ["Gambella", "Benishangul-Gumuz", "Oromia", "SNNP"]
+  },
+  {
+    "AEZ_name": "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+    "regions": ["SNNP", "Oromia"]
+  },
+  {
+    "AEZ_name": "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+    "regions": ["SNNP"]
+  }
+]

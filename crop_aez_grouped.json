@@ -1,0 +1,352 @@
+[
+  {
+    "crop": "Corn, sweet",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Sorghum",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Barley",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Teff",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Wheat, bread",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Wheat, durum",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Rice",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)"
+    ]
+  },
+  {
+    "crop": "Wheat, Emmer",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)"
+    ]
+  },
+  {
+    "crop": "Bean",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Potato",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Sweet potato",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Taro",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)"
+    ]
+  },
+  {
+    "crop": "Bean, broad green",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Bean, broad",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Chick-pea",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Lentil",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Pea, dry",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Grass pea",
+    "aez": [
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Peanut",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Mustard, Ethiopian",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Safflower",
+    "aez": [
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)"
+    ]
+  },
+  {
+    "crop": "Sesame",
+    "aez": [
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Soybean",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)"
+    ]
+  },
+  {
+    "crop": "Sunflower",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)"
+    ]
+  },
+  {
+    "crop": "Oil flax",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Niger seed",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Sugarcane",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)"
+    ]
+  },
+  {
+    "crop": "Carrot",
+    "aez": [
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Garlic",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Onion",
+    "aez": [
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Chilli, dry",
+    "aez": [
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "aez": [
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Upland cotton",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Mandarin",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)"
+    ]
+  },
+  {
+    "crop": "Mango",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Coffee",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Avocado",
+    "aez": [
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)"
+    ]
+  },
+  {
+    "crop": "Banana",
+    "aez": [
+      "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)"
+    ]
+  },
+  {
+    "crop": "Enset",
+    "aez": [
+      "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+      "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+      "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+      "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)"
+    ]
+  }
+]

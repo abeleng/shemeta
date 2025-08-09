@@ -1,0 +1,9 @@
+cluster,n_samples,r2,rmse,model_path
+0,1774,-0.4371463036546248,6.88477355023236e-05,models_regression\regression_cluster_0.joblib
+1,224,0.9991562698127385,2.676770517640552e-06,models_regression\regression_cluster_1.joblib
+2,128,0.5108932966041764,4.5028022579328174e-05,models_regression\regression_cluster_2.joblib
+3,90,0.9388950587197531,1.2291985990250478e-05,models_regression\regression_cluster_3.joblib
+4,1134,-0.5520289253145654,9.15483399759787e-05,models_regression\regression_cluster_4.joblib
+5,1668,-0.8345897994376623,0.0001542568377388921,models_regression\regression_cluster_5.joblib
+6,96,0.16297628420858368,6.404891695894768e-05,models_regression\regression_cluster_6.joblib
+7,324,-0.2741162773850947,2.1174031143039544e-05,models_regression\regression_cluster_7.joblib

@@ -1,0 +1,417 @@
+[
+  {
+    "crop": "Corn, sweet",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Sorghum",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Barley",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Teff",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Wheat, bread",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Wheat, durum",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Rice",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Wheat, Emmer",
+    "regions": [
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Bean",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Potato",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Sweet potato",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Taro",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Bean, broad green",
+    "regions": [
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Bean, broad",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Chick-pea",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Lentil",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Pea, dry",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Grass pea",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Peanut",
+    "regions": []
+  },
+  {
+    "crop": "Mustard, Ethiopian",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Safflower",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Sesame",
+    "regions": [
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Soybean",
+    "regions": [
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Sunflower",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Oil flax",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Niger seed",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Sugarcane",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Carrot",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Garlic",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Onion",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Chilli, dry",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Upland cotton",
+    "regions": [
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Mandarin",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Mango",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Coffee",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Avocado",
+    "regions": [
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  },
+  {
+    "crop": "Banana",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP",
+      "Tigray"
+    ]
+  },
+  {
+    "crop": "Enset",
+    "regions": [
+      "Afar",
+      "Amhara",
+      "Benishangul-Gumuz",
+      "Gambella",
+      "Oromia",
+      "SNNP"
+    ]
+  }
+]

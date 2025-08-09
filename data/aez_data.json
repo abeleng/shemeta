@@ -1,0 +1,72 @@
+[
+  {
+    "zone_id": "001",
+    "name": "Arid agro ecology (Hot to warm lowland plains and tepid to cool mid highlands)",
+    "min_altitude_masl": -100,
+    "max_altitude_masl": 2200,
+    "min_temperature_c": 16,
+    "max_temperature_c": 28,
+    "min_rainfall_mm": 100,
+    "max_rainfall_mm": 800
+  },
+  {
+    "zone_id": "002",
+    "name": "Semi-Arid Agro-ecology (Hot to warm lowlands and tepid to cool mid highlands)",
+    "min_altitude_masl": 400,
+    "max_altitude_masl": 2200,
+    "min_temperature_c": 16,
+    "max_temperature_c": 30,
+    "min_rainfall_mm": 300,
+    "max_rainfall_mm": 800
+  },
+  {
+    "zone_id": "003",
+    "name": "Sub-moist Agro-ecology (hot to warm low lands, tepid to cool mid-highlands and cold to very cold sub-afroalpin to afroalpin)",
+    "min_altitude_masl": 400,
+    "max_altitude_masl": 4000,
+    "min_temperature_c": 16,
+    "max_temperature_c": 28,
+    "min_rainfall_mm": 200,
+    "max_rainfall_mm": 2600
+  },
+  {
+    "zone_id": "004",
+    "name": "Moist Agro-ecology (hot to warm lowlands, tepid to cool moist mid highlands and cold to very cold sub-afroalpine to afroalpine)",
+    "min_altitude_masl": 400,
+    "max_altitude_masl": 3200,
+    "min_temperature_c": 7,
+    "max_temperature_c": 28,
+    "min_rainfall_mm": 250,
+    "max_rainfall_mm": 2200
+  },
+  {
+    "zone_id": "005",
+    "name": "Sub-humid agro-ecologies (Hot-warm lowlands, tepid to cool mid-highlands and cold to very cold sub-afroalpine to afroalpine)",
+    "min_altitude_masl": 400,
+    "max_altitude_masl": 4300,
+    "min_temperature_c": 8,
+    "max_temperature_c": 28,
+    "min_rainfall_mm": 700,
+    "max_rainfall_mm": 2200
+  },
+  {
+    "zone_id": "006",
+    "name": "Humid agro-ecology (hot to warm lowlands, tepid to cool mid highlands and cold to very cold humid sub-afroalpine to afroalpine)",
+    "min_altitude_masl": 600,
+    "max_altitude_masl": 4200,
+    "min_temperature_c": 8,
+    "max_temperature_c": 26,
+    "min_rainfall_mm": 500,
+    "max_rainfall_mm": 2200
+  },
+  {
+    "zone_id": "007",
+    "name": "Per-humid agro-ecology (hot to warm lowlands and tepid to cool mid highlands)",
+    "min_altitude_masl": 1000,
+    "max_altitude_masl": 2800,
+    "min_temperature_c": 13,
+    "max_temperature_c": 26,
+    "min_rainfall_mm": 1100,
+    "max_rainfall_mm": 2200
+  }
+]
