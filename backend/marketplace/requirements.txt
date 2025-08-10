@@ -9,3 +9,4 @@ pydantic
 earthengine-api
 google-generativeai
 gunicorn
+django-cors-headers
