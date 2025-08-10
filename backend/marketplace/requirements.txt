@@ -8,3 +8,4 @@ python-dotenv
 pydantic
 earthengine-api
 google-generativeai
+gunicorn
