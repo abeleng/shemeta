@@ -1,0 +1,10 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+pandas
+numpy
+psycopg2
+python-dotenv
+pydantic
+earthengine-api
+google-generativeai
