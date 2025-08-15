@@ -61,7 +61,7 @@ Shemeta/
 ## Setup
 1. Clone the repo:
    ```powershell
-   git clone https://github.com/edealasc/sebil_finance.git
+   git clone https://github.com/abeleng/shemeta.git
    ```
 2. Create and activate a Python virtual environment in `backend`:
    ```powershell
