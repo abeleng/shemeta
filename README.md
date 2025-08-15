@@ -1,4 +1,4 @@
-# Shemeta Sebil Finance
+# Shemeta 
 
 ## Overview
 Shemeta is an AI-powered platform for crop recommendation and buyer-farmer matching. It consists of a Django backend and a modern React frontend, designed to help farmers grow and sell smarter, leveraging data and machine learning.
